@@ -1,7 +1,18 @@
 # Campususeds
 校园二手交易网站，二手交易，校园二手交易....毕设
 
+### 预览图
+
 ![image](https://github.com/zhou0218/Campususeds/blob/master/01.JPG?raw=true)
+
+![image](https://github.com/zhou0218/Campususeds/blob/master/2.JPG?raw=true)
+
+![image](https://github.com/zhou0218/Campususeds/blob/master/3.JPG?raw=true)
+
+![image](https://github.com/zhou0218/Campususeds/blob/master/4.JPG?raw=true)
+
+![image](https://github.com/zhou0218/Campususeds/blob/master/5.JPG?raw=true)
+
 
 ### 项目来历
 
